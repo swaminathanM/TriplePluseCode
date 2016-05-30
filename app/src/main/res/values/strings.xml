@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TriplePulse</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Button_signIn">Already have an account? Sign In</string>
+
+    <string name="action_settings">My Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email / Mobile Phone Number</string>
+    <string name="prompt_email_only">Email</string>
+    <string name="prompt_mobile_number_only">Mobile Number</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="login_already_available">Already have an account? Sign in </string>
+    <string name="create_account_text">Create Account</string>
+    <string name="prompt_reenter_password">Re-enter Password</string>
+    <string name="string_sign_up">Sign Up</string>
+
+</resources>
